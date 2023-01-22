@@ -1,0 +1,134 @@
+
+id
+"100"
+name
+"RRR"
+poster
+"https://englishtribuneimages.blob.core.windows.net/gallary-content/202…"
+rating
+8.8
+language
+"telugu"
+summary
+"RRR is an upcoming Indian Telugu-language period action drama film dir…"
+trailer
+"https://www.youtube.com/embed/f_vbAtFSEc0"
+
+
+
+
+
+_id
+61f587d6d5958bad30642f0a
+id
+"101"
+name
+"Iron man 2"
+poster
+"https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZT…"
+rating
+7
+language
+"english"
+summary
+"With the world now aware that he is Iron Man, billionaire inventor Ton…"
+trailer
+"https://www.youtube.com/embed/wKtcmiifycU"
+_id
+61f587d6d5958bad30642f0b
+id
+"102"
+name
+"No Country for Old Men"
+poster
+"https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_…"
+rating
+8.1
+language
+"english"
+summary
+"A hunter's life takes a drastic turn when he discovers two million dol…"
+trailer
+"https://www.youtube.com/embed/38A__WT3-o0"
+_id
+61f587d6d5958bad30642f0c
+id
+"103"
+name
+"Jai Bhim"
+poster
+"https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2…"
+summary
+"A tribal woman and a righteous lawyer battle in court to unravel the m…"
+rating
+9
+language
+"tamil"
+trailer
+"https://www.youtube.com/embed/nnXpbTFrqXA"
+_id
+61f587d6d5958bad30642f0d
+id
+"104"
+name
+"The Avengers"
+rating
+8
+language
+"english"
+summary
+"Marvel's The Avengers (classified under the name Marvel Avengers
+ Asse…"
+poster
+"https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersendgame_lo…"
+trailer
+"https://www.youtube.com/embed/eOrNdBpGMv8"
+_id
+61f587d6d5958bad30642f0e
+id
+"105"
+name
+"Interstellar"
+poster
+"https://m.media-amazon.com/images/I/A1JVqNMI7UL._SL1500_.jpg"
+rating
+8.6
+language
+"english"
+summary
+"When Earth becomes uninhabitable in the future, a farmer and ex-NASA
+ …"
+trailer
+"https://www.youtube.com/embed/zSWdZVtXT7E"
+_id
+61f587d6d5958bad30642f0f
+id
+"106"
+name
+"Baahubali"
+poster
+"https://flxt.tmsimg.com/assets/p11546593_p_v10_af.jpg"
+rating
+8
+language
+"telugu"
+summary
+"In the kingdom of Mahishmati, Shivudu falls in love with a young warri…"
+trailer
+"https://www.youtube.com/embed/sOEg_YZQsTI"
+_id
+61f587d6d5958bad30642f10
+id
+"107"
+name
+"Ratatouille"
+poster
+"https://resizing.flixster.com/gL_JpWcD7sNHNYSwI1ff069Yyug=/ems.ZW1zLXB…"
+rating
+8
+language
+"english"
+summary
+"Remy, a rat, aspires to become a renowned French chef. However, he fai…"
+trailer
+"https://www.youtube.com/embed/NgsQ8mVkN8w"
